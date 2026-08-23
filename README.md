@@ -2,5 +2,5 @@
 
 ### Our Products
 
-- [healthzkit]("https://healthzkit.dev")
-- [shipd]("https://useshipd.com")
+- [healthzkit](https://healthzkit.dev)
+- [shipd](https://useshipd.com)
